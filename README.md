@@ -1,2 +1,2 @@
 # setting
-setting report
+setting reportfor git commands demonstration
